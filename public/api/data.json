@@ -1,0 +1,116 @@
+[
+  {
+    "title": "Work",
+    "icon": "/tab-icons/icon-work.svg",
+    "timeframes": {
+      "daily": {
+        "current": 5,
+        "previous": 7
+      },
+      "weekly": {
+        "current": 32,
+        "previous": 36
+      },
+      "monthly": {
+        "current": 103,
+        "previous": 128
+      }
+    },
+    "color": "#FF8B64"
+  },
+  {
+    "title": "Play",
+    "icon": "/tab-icons/icon-play.svg",
+    "timeframes": {
+      "daily": {
+        "current": 1,
+        "previous": 2
+      },
+      "weekly": {
+        "current": 10,
+        "previous": 8
+      },
+      "monthly": {
+        "current": 23,
+        "previous": 29
+      }
+    },
+    "color": "#56C2E6"
+  },
+  {
+    "title": "Study",
+    "icon": "/tab-icons/icon-study.svg",
+    "timeframes": {
+      "daily": {
+        "current": 0,
+        "previous": 1
+      },
+      "weekly": {
+        "current": 4,
+        "previous": 7
+      },
+      "monthly": {
+        "current": 13,
+        "previous": 19
+      }
+    },
+    "color": "#FF5E7D"
+  },
+  {
+    "title": "Exercise",
+    "icon": "/tab-icons/icon-exercise.svg",
+    "timeframes": {
+      "daily": {
+        "current": 1,
+        "previous": 1
+      },
+      "weekly": {
+        "current": 4,
+        "previous": 5
+      },
+      "monthly": {
+        "current": 11,
+        "previous": 18
+      }
+    },
+    "color": "#4BCF83"
+  },
+  {
+    "title": "Social",
+    "icon": "/tab-icons/icon-social.svg",
+    "timeframes": {
+      "daily": {
+        "current": 1,
+        "previous": 3
+      },
+      "weekly": {
+        "current": 5,
+        "previous": 10
+      },
+      "monthly": {
+        "current": 21,
+        "previous": 23
+      }
+    },
+    "color": "#7235D1"
+  },
+  {
+    "title": "Self Care",
+    "icon": "/tab-icons/icon-self-care.svg",
+    "timeframes": {
+      "daily": {
+        "current": 0,
+        "previous": 1
+      },
+      "weekly": {
+        "current": 2,
+        "previous": 2
+      },
+      "monthly": {
+        "current": 7,
+        "previous": 11
+      }
+    },
+    "color": "#F1C75B"
+  }
+]
